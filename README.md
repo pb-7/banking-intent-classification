@@ -87,6 +87,23 @@ Because this prototype uses a limited set of selected intents, some real-world q
 
 ---
 
+## Gradio Demo
+
+The project includes a Gradio-based demo interface for testing banking support queries interactively. Users can enter a customer query and view the top predicted intent categories returned by the model.
+
+### Demo Screenshots
+
+#### Gradio Home Interface
+![Gradio Home Interface](screenshots/gradio_screenshot1.png)
+
+
+![Example Query Prediction](screenshots/gradio_screenshot2.png)
+
+
+![Another Query Prediction Example](screenshots/gradio_screenshot3.png)
+
+---
+
 ## Practical Relevance
 
 A system like this can support customer support operations by helping with first-stage triage. Instead of manually reading each incoming query from scratch, teams could use model predictions as an assistive signal for queue assignment or issue routing.

@@ -94,13 +94,16 @@ The project includes a Gradio-based demo interface for testing banking support q
 ### Demo Screenshots
 
 #### Gradio Home Interface
-![Gradio Home Interface](screenshots/gradio_screenshot1.png)
+![Query 1](screenshots/screenshot1.png)
 
 
-![Example Query Prediction](screenshots/gradio_screenshot2.png)
+![Query 2](screenshots/screenshot2.png)
 
 
-![Another Query Prediction Example](screenshots/gradio_screenshot3.png)
+![Query 3](screenshots/screenshot3.png)
+
+
+![Query 4](screenshots/screenshot4.png)
 
 ---
 
